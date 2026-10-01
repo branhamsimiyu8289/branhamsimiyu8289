@@ -41,8 +41,6 @@ A real-time interactive dashboard connecting to live API endpoints to monitor ke
 ### 5. 📈 Comprehensive Data Analysis Report
 An end-to-end data processing and visualization project delivering actionable insights and data-backend activity intelligence.
 
-### 6. 🎓 Grade Tracker Application
-A robust student management tool designed to log, compute, and track academic grades and performance trends over time.
 
 ---
 
