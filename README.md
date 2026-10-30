@@ -76,9 +76,9 @@
 
 ## 👨‍💻 About Me
 
-I am a Python Developer specializing in building backend systems, automated workflows, and data-driven applications. My core expertise lies in developing performant REST APIs with FastAPI, creating scalable server-side logic, and implementing end-to-end data processing pipelines for real-world business needs.
+I am a Python Developer specializing in building backend systems, automated workflows, and data-driven applications. My core expertise lies in developing performant REST APIs with FastAPI, creating ETL pipelines, and engineering automation tools for real-world business workflows.
 
-In addition to backend and data engineering, I have strong foundational web development skills in HTML, CSS, and JavaScript, enabling me to craft full-stack tools and interactive live dashboards suitable for modern user experiences.
+In addition to backend and data engineering, I have strong foundational web development skills in HTML, CSS, and JavaScript, enabling me to craft full-stack tools and interactive live dashboards suited for business intelligence and operational insight.
 
 ---
 
@@ -99,7 +99,7 @@ An intelligent health advisory application designed to provide personalized reco
 ### 2. [📊 SMP Tracker](https://github.com/branhamsimiyu8289/smp-tracker)
 A custom tracking and monitoring system built to manage and log Self-Mastery Program (SMP) client progress, treatment schedules, and records effectively.
 
-### 3. [🏗️ Kichuma Structures Website](https://github.com/branhamsimiyu8289)
+### 3. [🏗️ Kichuma Structures Website](https://kichuma-structures.vercel.app)
 A clean, responsive, and modern website tailored for a structural engineering and construction solutions provider.
 
 ### 4. [⚡ API Live Dashboard](https://github.com/branhamsimiyu8289/data-dashboard-)
