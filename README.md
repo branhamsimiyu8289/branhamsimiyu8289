@@ -76,9 +76,9 @@
 
 ## 👨‍💻 About Me
 
-I am a Python Developer specializing in building backend systems, automated workflows, and data-driven applications. My core expertise lies in developing performant REST APIs with FastAPI, creating ETL pipelines, and engineering automation tools for real-world business workflows.
+I am a Python Developer specializing in building backend systems, automated workflows, and data-driven applications. My core expertise lies in developing performant REST APIs with FastAPI, creating scalable processing pipelines, and designing analytical tools that turn raw data into measurable business value.
 
-In addition to backend and data engineering, I have strong foundational web development skills in HTML, CSS, and JavaScript, enabling me to craft full-stack tools and interactive live dashboards suited for business intelligence and operational insight.
+In addition to backend and data engineering, I have strong foundational web development skills in HTML, CSS, and JavaScript, enabling me to craft full-stack tools and interactive live dashboards suited to real business needs.
 
 ---
 
@@ -112,13 +112,16 @@ An end-to-end data processing and visualization project delivering actionable in
 
 ## 💼 Services I Offer
 
-### 1. Data Pipeline & Workflow Automation
+### 1. Website Development
+I design and build modern, responsive, and user-friendly websites that help businesses and brands present themselves clearly online. From landing pages to full business websites, I focus on clean design, smooth user experience, fast performance, and solutions that are easy to maintain and grow.
+
+### 2. Data Pipeline & Workflow Automation
 Designing and implementing robust Python scripts to automate repetitive data extraction, transformation, processing, and pipeline workflows.
 
-### 2. Custom RESTful API & Live Dashboard Development
+### 3. Custom RESTful API & Live Dashboard Development
 Building high-performance, secure backend APIs using FastAPI and integrating them with real-time interactive visual dashboards.
 
-### 3. Machine Learning & Predictive Data Solutions
+### 4. Machine Learning & Predictive Data Solutions
 Leveraging machine learning algorithms to conduct deep data analysis, generate reports, and build predictive intelligence for business tools.
 
 ---
@@ -127,9 +130,9 @@ Leveraging machine learning algorithms to conduct deep data analysis, generate r
 
 I am always open to collaboration, freelance projects, and exciting engineering opportunities. Reach out at:
 
-* 📱 WhatsApp: [+254 786 753 636](https://wa.me/254786753636)
-* 💬 Telegram: [@branhamsimiyu76](https://t.me/branhamsimiyu76)
-* 💼 LinkedIn: [@BranhamSimiyu](https://www.linkedin.com/in/branham-simiyu)
+* <a href="https://wa.me/254786753636" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="140" height="32" /></a>
+* <a href="https://t.me/branhamsimiyu76" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="140" height="32" /></a>
+* <a href="https://www.linkedin.com/in/branham-simiyu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="140" height="32" /></a>
 
 ---
 
