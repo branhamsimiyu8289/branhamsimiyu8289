@@ -1,4 +1,4 @@
-# Hello there, I'm Branham Simiyu 👋
+# Hello there 👋, I'm Branham Simiyu 
 
 <div align="center">
 
