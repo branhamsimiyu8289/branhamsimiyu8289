@@ -76,9 +76,11 @@
 
 ## 👨‍💻 About Me
 
-I am a Python Developer specializing in building backend systems, automated workflows, and data-driven applications. My core expertise lies in developing performant REST APIs with FastAPI, creating scalable data pipelines, and implementing data analysis solutions.
+I am currently learning Automation and Monetizing AI Skills. [SEE PROGRESS](https://github.com/branhamsimiyu8289/AI-Masterclass-II)
 
-In addition to backend and data engineering, I have strong foundational web development skills in HTML, CSS, and JavaScript, enabling me to craft full-stack tools and interactive live dashboards suitable for business and professional use.
+I am a Python Developer specializing in building backend systems, automated workflows, and data-driven applications. My core expertise lies in developing performant REST APIs with FastAPI, creating scalable data pipelines, and delivering AI-powered solutions. I focus on transforming complex requirements into efficient, maintainable applications and automated systems that solve real-world problems.
+
+In addition to backend and data engineering, I have strong foundational web development skills in HTML, CSS, and JavaScript, enabling me to craft full-stack tools and interactive live dashboards suitable for modern business environments.
 
 ---
 
@@ -116,7 +118,7 @@ An end-to-end data processing and visualization project delivering actionable in
 ## 💼 Services I Offer
 
 ### 1. Website Development
-I design and build modern, responsive, and user-friendly websites that help businesses and brands present themselves clearly online. From landing pages to full business websites, I focus on clean design, usability, and practical functionality.
+I design and build modern, responsive, and user-friendly websites that help businesses and brands present themselves clearly online. From landing pages to full business websites, I focus on clean design, intuitive navigation, reliable functionality, and a polished user experience optimized across devices.
 
 ### 2. Data Pipeline & Workflow Automation
 Designing and implementing robust Python scripts to automate repetitive data extraction, transformation, processing, and pipeline workflows.
