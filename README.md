@@ -76,9 +76,9 @@
 
 ## 👨‍💻 About Me
 
-I am a Python Developer specializing in building backend systems, automated workflows, and data-driven applications. My core expertise lies in developing performant REST APIs with FastAPI, creating scalable processing pipelines, and designing analytical tools that turn raw data into measurable business value.
+I am a Python Developer specializing in building backend systems, automated workflows, and data-driven applications. My core expertise lies in developing performant REST APIs with FastAPI, creating scalable data pipelines, and implementing data analysis solutions.
 
-In addition to backend and data engineering, I have strong foundational web development skills in HTML, CSS, and JavaScript, enabling me to craft full-stack tools and interactive live dashboards suited to real business needs.
+In addition to backend and data engineering, I have strong foundational web development skills in HTML, CSS, and JavaScript, enabling me to craft full-stack tools and interactive live dashboards suitable for business and professional use.
 
 ---
 
@@ -108,12 +108,15 @@ A real-time interactive dashboard connecting to live API endpoints to monitor ke
 ### 5. [📈 Comprehensive Data Analysis Report](https://github.com/branhamsimiyu8289/data-analysis)
 An end-to-end data processing and visualization project delivering actionable insights and data-backed activity intelligence.
 
+### 6. [🐔 Poultry Farm Management System](https://github.com/branhamsimiyu8289/poultry-farm)
+A Python-based poultry farm management system for organizing and managing farm operations.
+
 ---
 
 ## 💼 Services I Offer
 
 ### 1. Website Development
-I design and build modern, responsive, and user-friendly websites that help businesses and brands present themselves clearly online. From landing pages to full business websites, I focus on clean design, smooth user experience, fast performance, and solutions that are easy to maintain and grow.
+I design and build modern, responsive, and user-friendly websites that help businesses and brands present themselves clearly online. From landing pages to full business websites, I focus on clean design, usability, and practical functionality.
 
 ### 2. Data Pipeline & Workflow Automation
 Designing and implementing robust Python scripts to automate repetitive data extraction, transformation, processing, and pipeline workflows.
@@ -152,3 +155,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
