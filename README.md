@@ -96,20 +96,20 @@ In addition to backend and data engineering, I have strong foundational web deve
 ### 1. [🏥 Amerix Health App Advisor](https://github.com/branhamsimiyu8289/amerix-health-app)
 An intelligent health advisory application designed to provide personalized recommendations and guidance based on user input metrics.
 
-### 2. [📊 SMP Tracker](https://github.com/branhamsimiyu8289/smp-tracker)
+### 2. [🐔 Poultry Farm Management System](https://github.com/branhamsimiyu8289/poultry-farm)
+A Python-based poultry farm management system for organizing and managing farm operations.
+
+### 3. [📊 SMP Tracker](https://github.com/branhamsimiyu8289/smp-tracker)
 A custom tracking and monitoring system built to manage and log Self-Mastery Program (SMP) client progress, treatment schedules, and records effectively.
 
-### 3. [🏗️ Kichuma Structures Website](https://kichuma-structures.vercel.app)
+### 4. [🏗️ Kichuma Structures Website](https://kichuma-structures.vercel.app)
 A clean, responsive, and modern website tailored for a structural engineering and construction solutions provider.
 
-### 4. [⚡ API Live Dashboard](https://github.com/branhamsimiyu8289/data-dashboard-)
+### 5. [⚡ API Live Dashboard](https://github.com/branhamsimiyu8289/data-dashboard-)
 A real-time interactive dashboard connecting to live API endpoints to monitor key data streams, system health, and analytics.
 
-### 5. [📈 Comprehensive Data Analysis Report](https://github.com/branhamsimiyu8289/data-analysis)
+### 6. [📈 Comprehensive Data Analysis Report](https://github.com/branhamsimiyu8289/data-analysis)
 An end-to-end data processing and visualization project delivering actionable insights and data-backed activity intelligence.
-
-### 6. [🐔 Poultry Farm Management System](https://github.com/branhamsimiyu8289/poultry-farm)
-A Python-based poultry farm management system for organizing and managing farm operations.
 
 ---
 
