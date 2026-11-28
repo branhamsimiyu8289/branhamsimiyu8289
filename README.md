@@ -1,9 +1,12 @@
-# Hello there 👋, I'm Branham Simiyu 
+# Hello there 👋, I'm Branham Simiyu
 
 <div align="center">
 
   <h3>Social Links</h3>
 
+  <a href="https://branham-simiyu.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://t.me/branhamsimiyu76" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
@@ -78,9 +81,9 @@
 
 I am currently learning Automation and Monetizing AI Skills. [SEE PROGRESS](https://github.com/branhamsimiyu8289/AI-Masterclass-II)
 
-I am a Python Developer specializing in building backend systems, automated workflows, and data-driven applications. My core expertise lies in developing performant REST APIs with FastAPI, creating scalable data pipelines, and delivering AI-powered solutions. I focus on transforming complex requirements into efficient, maintainable applications and automated systems that solve real-world problems.
+I am a Python Developer specializing in building backend systems, automated workflows, and data-driven applications. My core expertise lies in developing performant REST APIs with FastAPI, creating data analysis tools, and implementing machine learning solutions.
 
-In addition to backend and data engineering, I have strong foundational web development skills in HTML, CSS, and JavaScript, enabling me to craft full-stack tools and interactive live dashboards suitable for modern business environments.
+In addition to backend and data engineering, I have strong foundational web development skills in HTML, CSS, and JavaScript, enabling me to craft full-stack tools and interactive live dashboards using modern frameworks and libraries.
 
 ---
 
@@ -118,7 +121,7 @@ An end-to-end data processing and visualization project delivering actionable in
 ## 💼 Services I Offer
 
 ### 1. Website Development
-I design and build modern, responsive, and user-friendly websites that help businesses and brands present themselves clearly online. From landing pages to full business websites, I focus on clean design, intuitive navigation, reliable functionality, and a polished user experience optimized across devices.
+I design and build modern, responsive, and user-friendly websites that help businesses and brands present themselves clearly online. From landing pages to full business websites, I focus on clean, functional, and results-driven experiences.
 
 ### 2. Data Pipeline & Workflow Automation
 Designing and implementing robust Python scripts to automate repetitive data extraction, transformation, processing, and pipeline workflows.
@@ -135,9 +138,10 @@ Leveraging machine learning algorithms to conduct deep data analysis, generate r
 
 I am always open to collaboration, freelance projects, and exciting engineering opportunities. Reach out at:
 
-* <a href="https://wa.me/254786753636" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="140" height="32" /></a>
-* <a href="https://t.me/branhamsimiyu76" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="140" height="32" /></a>
-* <a href="https://www.linkedin.com/in/branham-simiyu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="140" height="32" /></a>
+* <a href="https://branham-simiyu.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" width="140" height="28" /></a>
+* <a href="https://wa.me/254786753636" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" width="140" height="28" /></a>
+* <a href="https://t.me/branhamsimiyu76" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" width="140" height="28" /></a>
+* <a href="https://www.linkedin.com/in/branham-simiyu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" width="140" height="28" /></a>
 
 ---
 
@@ -157,4 +161,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
