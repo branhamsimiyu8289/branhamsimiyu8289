@@ -2,11 +2,14 @@
 
 <div align="center">
 
-  <h3>Social Links</h3>
+  <h3>My Portfolio</h3>
 
   <a href="https://branham-simiyu.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF6B35?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Visit_My_Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Portfolio" width="220" height="40" />
   </a>
+
+  <h3>Social Links</h3>
+
   <a href="https://t.me/branhamsimiyu76" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
