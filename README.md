@@ -7,6 +7,9 @@
   <a href="https://branham-simiyu.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit_My_Portfolio-FF6B35?style=for-the-badge&logo=google-chrome&logoColor=white" alt="My Portfolio" width="220" height="40" />
   </a>
+  <a href="https://github.com/branhamsimiyu8289/my-portfolio/raw/main/Branham_Simiyu_CV.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-2B6CB0?style=for-the-badge&logo=readme&logoColor=white" alt="Resume" width="220" height="40" />
+  </a>
 
   <h3>Social Links</h3>
 
